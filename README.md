@@ -7,9 +7,7 @@
 💬 Ask me about Laravel, PHP, MySQL, or anything backend-related.  
 📫 How to reach me:  
 📧 Email – parulsharma9674@gmail.com  
-🔗 LinkedIn – [linkedin.com/in/parul-sharma-b6bb59291](https://www.linkedin.com/in/parul-sharma-b6bb59291/)  
-😄 Pronouns: She/Her  
-⚡ Fun fact: I debug better after a cup of chai and a good playlist. ☕
+🔗 LinkedIn – [linkedin.com/in/parul-sharma-b6bb59291](https://www.linkedin.com/in/parul-sharma-b6bb59291/)
 
 ---
 
@@ -29,4 +27,4 @@
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+⚡ Fun fact: I debug better after a cup of chai and a good playlist. ☕
